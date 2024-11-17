@@ -44,7 +44,7 @@ A scalable data pipeline to analyze component failure trends in aerospace system
 ---
 
 ### 🤝 **Let’s Connect!**
-- 💼 [LinkedIn](https://www.linkedin.com/in/MarquellWells)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marquell-wells-ba300a299)  
 - 📧 Email: mwell27238@gmail.com 
 
 ---
